@@ -1,0 +1,10 @@
+
+venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+*.wav
+kirana_backup.db
+.DS_Store
+*.m4a

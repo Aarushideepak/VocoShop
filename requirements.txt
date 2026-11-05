@@ -1,0 +1,5 @@
+python-dotenv
+gnani-vachana
+sounddevice
+soundfile
+numpy
